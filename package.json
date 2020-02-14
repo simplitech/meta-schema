@@ -1,6 +1,6 @@
 {
   "name": "@simpli/meta-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A data-structure library to describe more information about your model in a separated file",
   "keywords": [],
   "main": "dist/meta-schema.umd.js",
